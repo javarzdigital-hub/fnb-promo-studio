@@ -66,3 +66,4 @@ export interface CampaignState {
   fontStyle: 'bebas' | 'outfit' | 'playfair';
   updatedAt: number;
 }
+
